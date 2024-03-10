@@ -1,0 +1,51 @@
+nav a {
+    color: rgb(15, 122, 121);
+    margin: 80px;
+    text-decoration: none;
+    background-color: rgb(10, 178, 255);
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+header h1 {
+    font-size: 100px;
+    color: rgb(106, 13, 213);
+    
+}
+main h1 {
+    color: rgb(5, 75, 5);
+    font-size: 10x;
+    margin: 10px;
+    background-color: rgb(69, 161, 16);
+    border-radius: 5px;
+}
+main h2 {
+    color: rgb(0, 0, 255);
+    margin: 15px;
+    border-radius: 5px;
+    background-color: rgb(5, 5, 61);
+    text-align: center;
+}
+
+body{
+    background-color: rgb(100, 75, 75);
+}
+
+main img {
+    width: 400px;
+    }
+    main a{
+        text-decoration: none;
+        color: greenyellow;
+        padding:10px;
+        background-color: indigo;
+        border-radius: 10px;
+        text-align:center;
+font-size: 30px;
+        
+    }
+    main img{
+        padding: 10px;
+        background-color: cornflowerblue;
+    }
